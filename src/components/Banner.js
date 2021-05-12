@@ -1,7 +1,7 @@
 import "../styles/Banner.css";
 import leaf from "../assets/leaf.png";
 function Banner() {
-  const title = "La maison jungle";
+  const title = "La maison";
   return (
     <div className="lmj-banner">
       <img src={leaf} alt="feuille logo" className="lmj-logo" />
