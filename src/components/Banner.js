@@ -1,5 +1,5 @@
 function Banner() {
-    return <h1>VICTOIRE</h1>
+  return <h1>Pwet Pwet</h1>;
 }
 
-export default Banner
+export default Banner;
