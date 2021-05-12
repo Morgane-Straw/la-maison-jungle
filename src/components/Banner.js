@@ -1,5 +1,8 @@
+import '../styles/Banner.css'
 function Banner() {
-  return <h1>Pwet Pwet</h1>;
+  return <div className='lmj-banner'>
+  <h1>La maison jungle</h1>
+</div>
 }
 
 export default Banner;
